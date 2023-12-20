@@ -3,9 +3,9 @@
  ### [Certificate](https://www.udemy.com/certificate/UC-1266fb12-6fa8-4da6-9b0c-a576ba723c53/)
 
 <h2>Description of Course</h2>
-- Use of PostgreSQL and PgAdmin
+- Used PostgreSQL and PgAdmin
   <br />
-- Basics of SQL syntax and fundamentals
+- Learned basics of SQL syntax and fundamentals
 <br />
 - Analyzed data using aggregate functions with Group By Commands
 <br />
